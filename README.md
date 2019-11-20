@@ -1,5 +1,5 @@
 # K-MeansVisualization
-A graphical representation of the K-Means algorithm leveraging OpenMP for parallelization
+A graphical representation of the [K-Means clustering algorithm](https://it.wikipedia.org/wiki/K-means) leveraging OpenMP for parallelization
 
 ## Building
 ### Debian based
